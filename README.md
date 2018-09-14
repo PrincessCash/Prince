@@ -6,7 +6,7 @@
 
 - Prince Coin is inspired by images of a galactic community with light being Princes of many kinds.
 
-- Prince Coin (XPR) is a NEM blockchain mosaic fantasy token used by men to buy, sell, make, and create things.
+- Prince Coin is a NEM blockchain mosaic fantasy token used by men to buy, sell, make, and create things.
 
 # Links
 <b>GitHub</b> <a href="https://github.com/InfiniteIntel/Prince" target="_blank">https://github.com/InfiniteIntel/Prince</a>
