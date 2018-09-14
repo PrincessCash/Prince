@@ -24,6 +24,8 @@
 
 <b>Website</b> <a href="http://www.Prince.Cash" target="_blank">http://www.Prince.Cash</a>  
 
+<b>Twitter</a> <a href="https://twitter.com/PrinceCash18" target="_blank">https://twitter.com/PrinceCash18</a>
+
 <b>NEM Forum Discussion</b> <a href="https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127" target="_blank">https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127</a>
 
 <b>Developer(s):</b> 
