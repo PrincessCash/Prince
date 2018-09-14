@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<center><h2>Welcome to the Official Prince Namespace on the NEM blockchain.</h2></center>
 
-You can use the [editor on GitHub](https://github.com/InfiniteIntel/Prince/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Prince Coin Description
+<b>The Prince Coin symbolizes Prince Status. The Prince Coin community is focused on Education, Business and Lifestyle. Use of Prince Cash represents the universal value of connectedness and oneness.</b>
 
-### Markdown
+- Prince Coin is inspired by images of a galactic community with light being Princes of many kinds.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Prince Coin (XPR) is a NEM blockchain mosaic fantasy token used by men to buy, sell, make, and create things.
 
-```markdown
-Syntax highlighted code block
+# Links
+<b>GitHub</b> <a href="https://github.com/InfiniteIntel/Princess" target="_blank">https://github.com/InfiniteIntel/Princess</a>
 
-# Header 1
-## Header 2
-### Header 3
+<b>Trade Prince Coin on the NemChange Exchange</b> <a href="https://nemchange.com/Exchange/main/nem:xem/prince:coin
+" target="_blank">https://nemchange.com/Exchange/main/nem:xem/prince:coin</a>
 
-- Bulleted
-- List
+<b>Telegram</b> <a href="https://t.me/Prince_Coin" target="_blank">https://t.me/Prince_Coin</a>
 
-1. Numbered
-2. List
+<b>Youtube</b> <a href="https://www.youtube.com/channel/UCyetgATlwH1TShOk7kNTetA?view_as=subscriber" target="_blank">https://www.youtube.com/channel/UCyetgATlwH1TShOk7kNTetA?view_as=subscriber</a>
 
-**Bold** and _Italic_ and `Code` text
+<b>BitcoinTalk</b> <a href="https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127" target="_blank">https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127</a>
 
-[Link](url) and ![Image](src)
-```
+<b>Reddit</b> <a href="https://www.reddit.com/r/PrinceCoin/" target="_blank">https://www.reddit.com/r/PrinceCoin/</a>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+<b>Website</b> <a href="http://www.Prince.Cash" target="_blank">http://www.Prince.Cash</a>  
 
-### Jekyll Themes
+<b>NEM Forum Discussion</b> <a href="https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127" target="_blank">https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127</a>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InfiniteIntel/Prince/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<b>Developer(s):</b> 
+Prince Paul Mamakos, Author <a href="https://www.amazon.com/Golden-One-Body-Book-Oneness-ebook/dp/B072LXLSDW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533099963&sr=1-1" target="_blank">https://www.amazon.com/Golden-One-Body-Book-Oneness-ebook/dp/B072LXLSDW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533099963&sr=1-1</a>
