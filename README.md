@@ -26,7 +26,7 @@
 
 <b>Twitter</b> <a href="https://twitter.com/PrinceCash18" target="_blank">https://twitter.com/PrinceCash18</a>
 
-<b>NEM Forum Discussion</b> <a href="https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127" target="_blank">https://bitcointalk.org/index.php?topic=5028470.msg45659127#msg45659127</a>
+<b>NEM Forum Discussion</b> <a href="https://forum.nem.io/t/prince-namespace/18545" target="_blank">https://forum.nem.io/t/prince-namespace/18545</a>
 
 <b>Developer(s):</b> 
 Prince Paul Mamakos, Author <a href="https://www.amazon.com/Golden-One-Body-Book-Oneness-ebook/dp/B072LXLSDW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533099963&sr=1-1" target="_blank">https://www.amazon.com/Golden-One-Body-Book-Oneness-ebook/dp/B072LXLSDW/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533099963&sr=1-1</a>
