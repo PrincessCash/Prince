@@ -24,8 +24,6 @@
 
 <b>Website</b> <a href="http://www.Prince.Cash" target="_blank">http://www.Prince.Cash</a>  
 
-<b>Twitter</b> <a href="https://twitter.com/PrinceCash18" target="_blank">https://twitter.com/PrinceCash18</a>
-
 <b>NEM Forum Discussion</b> <a href="https://forum.nem.io/t/prince-namespace/18545" target="_blank">https://forum.nem.io/t/prince-namespace/18545</a>
 
 <b>Developer(s):</b> 
